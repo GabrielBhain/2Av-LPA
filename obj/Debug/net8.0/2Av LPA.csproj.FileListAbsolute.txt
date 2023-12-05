@@ -1,0 +1,14 @@
+C:\Users\gabri\Desktop\Profissional\2Av LPA\bin\Debug\net8.0\2Av LPA.exe
+C:\Users\gabri\Desktop\Profissional\2Av LPA\bin\Debug\net8.0\2Av LPA.deps.json
+C:\Users\gabri\Desktop\Profissional\2Av LPA\bin\Debug\net8.0\2Av LPA.runtimeconfig.json
+C:\Users\gabri\Desktop\Profissional\2Av LPA\bin\Debug\net8.0\2Av LPA.dll
+C:\Users\gabri\Desktop\Profissional\2Av LPA\bin\Debug\net8.0\2Av LPA.pdb
+C:\Users\gabri\Desktop\Profissional\2Av LPA\obj\Debug\net8.0\2Av LPA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\Profissional\2Av LPA\obj\Debug\net8.0\2Av LPA.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\Profissional\2Av LPA\obj\Debug\net8.0\2Av LPA.AssemblyInfo.cs
+C:\Users\gabri\Desktop\Profissional\2Av LPA\obj\Debug\net8.0\2Av LPA.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\Profissional\2Av LPA\obj\Debug\net8.0\2Av LPA.dll
+C:\Users\gabri\Desktop\Profissional\2Av LPA\obj\Debug\net8.0\refint\2Av LPA.dll
+C:\Users\gabri\Desktop\Profissional\2Av LPA\obj\Debug\net8.0\2Av LPA.pdb
+C:\Users\gabri\Desktop\Profissional\2Av LPA\obj\Debug\net8.0\2Av LPA.genruntimeconfig.cache
+C:\Users\gabri\Desktop\Profissional\2Av LPA\obj\Debug\net8.0\ref\2Av LPA.dll
